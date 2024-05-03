@@ -56,6 +56,8 @@ To install the necessary items, run the command: npm i and npm run develop
 
 ## Usage
 You will need to have knowledge of Apollo, express, mongo, graph ql, react, and node. This is a MERN application.
+![image](https://github.com/mikaylaakelly/BookFinder/assets/149916992/80dc574c-85f9-4eef-8d13-14bd038a5985)
+
 
 ## License
     
